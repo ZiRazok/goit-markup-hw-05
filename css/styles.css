@@ -559,13 +559,15 @@ textarea {
     width: 264px;
     height: 40px;
     padding-left: 16px;
+    font-size: 12px;
+    line-height: 2;
+    letter-spacing: .04em;
     color: #fff;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 }
 
 .input-subscribe-email::placeholder {
     padding: 8px 0;
-    font-weight: 400;
     font-size: 12px;
     line-height: 2;
     letter-spacing: .04em;
