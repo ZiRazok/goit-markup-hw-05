@@ -102,7 +102,7 @@ h6 {
 
 input,
 textarea {
-    outline: none;
+    outline: transparent;
 }
 
 
@@ -679,9 +679,7 @@ textarea {
 
 .modal-form {}
 
-.modal-input-name,
-.modal-input-phone,
-.modal-input-email {
+.modal-input-user {
     margin-bottom: 8px;
 }
 
