@@ -762,7 +762,6 @@ textarea {
 }
 
 .modal-checkbox-label {
-    display: flex;
     align-items: center;
     font-size: 12px;
     line-height: 1.17;
@@ -803,7 +802,6 @@ textarea {
     text-decoration: underline;
     text-decoration-skip-ink: none;
     color: #4d5ae5;
-    margin-left: .2em;
 }
 
 .modal-btn-submit {
